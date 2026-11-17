@@ -1,0 +1,19 @@
+{
+  "name": "Yesmin AI Android Dev",
+  "image": "mcr.microsoft.com/devcontainers/java:17-bookworm",
+  "features": {
+    "ghcr.io/devcontainers/features/java:1": {
+      "version": "17",
+      "installGradle": true,
+      "gradleVersion": "8.11.1"
+    }
+  },
+  "customizations": {
+    "vscode": {
+      "extensions": [
+        "fwcd.kotlin",
+        "mathiasfrohlich.Kotlin"
+      ]
+    }
+  }
+}

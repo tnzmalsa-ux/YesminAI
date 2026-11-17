@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Yesmin AI</string>
+    <string name="accessibility_service_description">Optional user-authorized screen helper for Yesmin AI. Performs taps, scrolling, or reads visible labels only when explicitly requested. Disabled by default.</string>
+</resources>
